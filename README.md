@@ -14,9 +14,9 @@
 
 [Laboratorium 6](lab6) | Struktury, typ wyliczeniowy, dynamiczna alokacja pamięci. (__5 pkt__)
 
-<!---
 [Laboratorium 7](?lab7) | Złożone struktury danych - lista jednokierunkowa. (__5 pkt__)
 
+<!---
 [Laboratorium 8](?lab8) | Obsługa plików (zapis/odczyt, binarnie/tekstowo). (__5 pkt__)
 
 [Laboratorium 9](?lab9) | Złożone projekty, pliki nagłówkowe, pliki `makefile`. (__5 pkt__)
