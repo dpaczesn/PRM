@@ -1,4 +1,4 @@
-# Laboratorium PRM, semestr letni 2017
+# Laboratorium PRM, semestr letni 2018
 
 [Laboratorium 0](lab0) | Konta, konsola, środowisko uruchomieniowe. Pierwszy program, standardowe wyjście i wejście.
 
